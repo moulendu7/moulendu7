@@ -1,16 +1,12 @@
-# Hi there, I'm Moulendu Khanra 👋
+# Hi there 👋, I'm Moulendu Khanra
 
-<h3 align="center">
-💻 Full-Stack Developer | ⚡ Competitive Programmer | 🤖 AI Enthusiast
-</h3>
+<h3 align="center">💻 Full Stack Developer | ⚡ Competitive Programmer | 🚀 MERN Stack Enthusiast</h3>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Competitive+Programmer;Building+AI+Powered+Applications;MERN+Stack+Developer;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Competitive+Programmer;MERN+Stack+Developer;Always+Learning+New+Things+🚀" />
 
 </div>
-
----
 
 # 👨‍💻 About Me
 
@@ -102,13 +98,7 @@ Alongside development, I actively practice Competitive Programming and DSA in C+
 
 ---
 
-# 📈 Most Used Languages
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulendu7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
 
 ---
 
