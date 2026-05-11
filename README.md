@@ -6,19 +6,19 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Competitive+Programmer;Building+AI+Powered+Applications;MERN+Stack+Developer;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Competitive+Programmer;Building+AI+Powered+Applications;MERN+Stack+Developer;Always+Learning+New+Things+🚀" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-👋 Hi, I'm **Moulendu Khanra**, a student and a **Full-Stack Developer** passionate about building scalable web applications and AI-powered systems.
+👋 Hi, I'm **Moulendu Khanra**, a student and a Full-Stack Developer passionate about building scalable web applications and AI-powered systems.
 
-I enjoy transforming complex ideas into practical products — whether it's designing efficient backend architectures, building modern frontend experiences, or experimenting with **LLMs, RAG pipelines, and intelligent systems**.
+I enjoy transforming complex ideas into practical products — from designing efficient backend systems to building intelligent AI applications using LLMs and RAG pipelines.
 
-Alongside development, I actively practice **Competitive Programming and DSA in C++**, constantly improving problem-solving skills and writing cleaner, optimized code.
+Alongside development, I actively practice Competitive Programming and DSA in C++, constantly improving problem-solving skills and writing cleaner, optimized code.
 
 ---
 
@@ -42,16 +42,11 @@ Alongside development, I actively practice **Competitive Programming and DSA in 
 &nbsp;&nbsp;
 
 <a href="https://codeforces.com/profile/moulendu_7">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="50"/>
+<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="50"/>
 </a>
 &nbsp;&nbsp;
 
-<!-- <a href="https://www.codechef.com/users/yourhandle">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="50"/>
-</a>
-&nbsp;&nbsp; -->
-
-<a href="https://leetcode.com/yourhandle">
+<a href="https://leetcode.com/">
 <img src="https://skillicons.dev/icons?i=leetcode" height="50"/>
 </a>
 
@@ -65,27 +60,31 @@ Alongside development, I actively practice **Competitive Programming and DSA in 
 
 ### 🚀 Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,java,html,css" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql" />
 
-### ⚛️ Frontend Development
+---
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,bootstrap" />
+### ⚛️ Frameworks & Libraries
 
-### 🔥 Backend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-
-### 🛢️ Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,supabase" />
+---
 
 ### 🤖 AI / ML
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
+---
+
+### 🛢️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase" />
+
+---
+
 ### 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,vercel,netlify,vscode,notion" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel,netlify" />
 
 </div>
 
@@ -95,9 +94,9 @@ Alongside development, I actively practice **Competitive Programming and DSA in 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=moulendu7&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=moulendu7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=moulendu7&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=moulendu7&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -107,7 +106,7 @@ Alongside development, I actively practice **Competitive Programming and DSA in 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulendu7&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moulendu7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -127,20 +126,11 @@ Alongside development, I actively practice **Competitive Programming and DSA in 
 
 ## 🔗 Extracta — AI-Powered PDF Question Answering System
 
-Built a powerful **RAG-based AI system** allowing users to query PDF documents naturally through a Telegram bot.
+Built a Retrieval-Augmented Generation (RAG) pipeline enabling users to query PDF documents naturally through a Telegram bot.
 
-### ⚡ Features
+### 🛠️ Tech Stack
 
-* LangChain + FAISS semantic retrieval
-* Mistral-7B powered responses
-* FastAPI backend
-* Redis-based conversation memory
-* Sub-100ms vector retrieval
-* Multi-turn conversational querying
-
-### 🛠️ Tech
-
-`Python` `FastAPI` `LangChain` `FAISS` `Redis` `Mistral-7B` `HuggingFace`
+`Python` `FastAPI` `LangChain` `FAISS` `Redis` `Mistral-7B`
 
 ---
 
@@ -148,17 +138,9 @@ Built a powerful **RAG-based AI system** allowing users to query PDF documents n
 
 A full-stack complaint management platform with AI-powered complaint categorization and RBAC dashboards.
 
-### ⚡ Features
+### 🛠️ Tech Stack
 
-* JWT Authentication & RBAC
-* Complaint lifecycle tracking
-* AI-based zero-shot complaint classification
-* Advanced filtering & pagination
-* Separate admin/student dashboards
-
-### 🛠️ Tech
-
-`React.js` `Node.js` `Express.js` `MongoDB` `MySQL` `JWT` `BART-MNLI`
+`React.js` `Node.js` `Express.js` `MongoDB` `MySQL` `JWT`
 
 ---
 
@@ -166,15 +148,7 @@ A full-stack complaint management platform with AI-powered complaint categorizat
 
 A scalable real-time messaging platform powered by WebSockets and Socket.IO.
 
-### ⚡ Features
-
-* Instant real-time messaging
-* JWT-secured authentication
-* Persistent MongoDB chat history
-* Room-based communication
-* Responsive UI across devices
-
-### 🛠️ Tech
+### 🛠️ Tech Stack
 
 `React.js` `Node.js` `Socket.IO` `MongoDB` `JWT`
 
@@ -212,7 +186,7 @@ A scalable real-time messaging platform powered by WebSockets and Socket.IO.
 
 <div align="center">
 
-## 🚀 “Code • Learn • Build • Repeat”
+## 🚀 Code • Learn • Build • Repeat
 
 Thanks for visiting! Let's build something amazing together ✨
 
